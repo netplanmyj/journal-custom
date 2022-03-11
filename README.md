@@ -22,3 +22,8 @@ gscan /path/to/ghost/content/themes/casper
 # Scan a theme zip file for compatibility
 gscan -z /path/to/downloads/theme.zip
 ```
+## Google Analyticsのタグについて
+[Google Analytics + Ghost](https://ghost.org/integrations/google/)
+
+Use Ghost `Code Injection`  
+ということで Settings からエディタを開いてヘッダー・フッターに必要なタグを保存できます。
