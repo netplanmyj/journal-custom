@@ -36,3 +36,6 @@ ini_set('display_errors',0);
 error_reporting(0);
 ```
 を追加して再起動したところダウンロードできました。
+
+## サイト内検索
+[How to Add Google Custom Search to Ghost](https://ghost.org/docs/tutorials/google-custom-search/)
