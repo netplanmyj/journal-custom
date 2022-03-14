@@ -27,3 +27,12 @@ gscan -z /path/to/downloads/theme.zip
 
 Use Ghost `Code Injection`  
 ということで Settings からエディタを開いてヘッダー・フッターに必要なタグを保存できます。
+
+## Ghostプラグイン
+Local環境でjsonをダウンロードしようとするとWarningが表示されて失敗。
+wp-config.php に、
+```
+ini_set('display_errors',0);
+error_reporting(0);
+```
+を追加して再起動したところダウンロードできました。
