@@ -43,3 +43,5 @@ error_reporting(0);
 
 # GitHub Actions によるデプロイ
 [Use GitHub Actions to deploy your theme](https://ghost.org/integrations/github/)
+
+[Ghost(CMS)のテーマ開発環境と自動デプロイのセットアップ](https://zenn.dev/gyarudev/articles/24a5409134e469)
