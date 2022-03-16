@@ -1,8 +1,9 @@
+Original repository is [here](https://github.com/TryGhost/Journal).
+
 # journal-custom
 
 ## ローカル環境でのテーマ編集について
 [How to install Ghost locally](https://ghost.org/docs/install/local/)
-
 
 ## Developing Themes
 ```
@@ -36,3 +37,11 @@ ini_set('display_errors',0);
 error_reporting(0);
 ```
 を追加して再起動したところダウンロードできました。
+
+## サイト内検索
+[How to Add Google Custom Search to Ghost](https://ghost.org/docs/tutorials/google-custom-search/)
+
+# GitHub Actions によるデプロイ
+[Use GitHub Actions to deploy your theme](https://ghost.org/integrations/github/)
+
+[Ghost(CMS)のテーマ開発環境と自動デプロイのセットアップ](https://zenn.dev/gyarudev/articles/24a5409134e469)
