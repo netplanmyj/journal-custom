@@ -1,3 +1,5 @@
+Original repository is [here](https://github.com/TryGhost/Journal).
+
 # journal-custom
 
 ## ローカル環境でのテーマ編集について
